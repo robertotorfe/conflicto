@@ -1,7 +1,3 @@
-# conflicto ---------_>>>>asdasdasdasdasdsads
- hola a todos!!!
+hola roberto# conflicto
 
- asdasdsa
- asdasdasd
-
- asdasdasasd  aguante la camada 12!!!!
+hola a todos!!!
